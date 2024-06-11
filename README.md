@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Creation of a website
 - 📫 You can reach me through my email nyakundibencarson@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronoun: He,Him
 - ⚡ Fun fact: ...
 
 <!---
