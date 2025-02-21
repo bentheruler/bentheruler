@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bentheruler
-- 👀 I’m interested in Computer Science
+- 👀 I’m studying Computer Science
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Creation of a website
 - 📫 You can reach me through my email nyakundibencarson@gmail.com
